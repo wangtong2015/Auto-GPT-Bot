@@ -457,5 +457,5 @@ def main():
             logger.typewriter_log("SYSTEM: ", Fore.YELLOW, "Unable to execute command")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
